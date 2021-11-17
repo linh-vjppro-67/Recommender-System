@@ -1,4 +1,4 @@
-# Recommenders-System
+# Recommender-Systems
 There are 3 methods for Recommender Systems including:
 
 `Content_based.ipynb`: Content-based filtering system.
